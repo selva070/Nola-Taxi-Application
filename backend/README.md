@@ -16,6 +16,6 @@ npm install
 
 ## Start application
 
-```python
+```node
 npm start
 ```
